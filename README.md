@@ -82,10 +82,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### 🌐 Deploy Using Ngrok
+### 🌐 Run Using Ngrok
 
 ```bash
-ngrok http 8501
+ https://7af6782b6f72.ngrok-free.app 
 ```
 
 Copy the generated public URL and share it to access the app online.
